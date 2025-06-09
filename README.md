@@ -1,40 +1,24 @@
 # Jayendra Sharad Dalvi – Product Portfolio
 
-👋 I'm a Product Manager with expertise in:
-- 🌍 AI-Powered Logistics
-- 📊 Data Products & Dashboards (Power BI, CO₂ Reporting)
-- 🚀 Agile Product Development
-- 🌱 Sustainability & Emissions Tracking
-- 🤖 API-driven & Automation Products
+🚀 Product Manager | AI + Logistics | Wealth Tech | Sustainability | Remote-first
+
+Welcome to my product portfolio. I specialize in solving complex operational and data challenges using a product mindset across the following domains:
 
 ---
 
-## 📌 Featured Projects
+## 🔧 Logistics, AI & Sustainability
+- [OptiShip & CO₂ Dashboard Optimization](./logistics-ai/README.md)
+- [Shipment Consolidation for WD](./logistics-ai/README.md)
 
-### 1. WD CO₂ Dashboard Optimization
-- CO₂ emissions tracking using SeaRoutes API
-- Freight mode categorization, baseline comparisons, monthly reporting
-- Tools: Power BI, PostgreSQL, Google API
+## 💼 Family Office & Wealth Management
+- [Investment Digital Journey](./family-office/README.md)
+- [Marketplace for Alternatives](./family-office/README.md)
+- [AI Chatbot for Client Engagement](./family-office/README.md)
 
-### 2. FF Invoice Automation
-- Document validation workflow for Freight Forwarders
-- RFI automation, rate mismatch detection, and audit trail visibility
-
-### 3. Alpha Platform – Shipment Optimization
-- Products: OptiShip, OptiPack, OptiOrder, OptiAnalytics
-- Impact: Reduced cost per kg by 12%, improved truckload density
+## 💳 Fintech & Subscription Models
+- [Client Subscription Platform (KSA)](./fintech-tools/README.md)
+- [Wealth Aggregator](./fintech-tools/README.md)
 
 ---
 
-## 📂 Repositories
-
-| Project | Description | Link |
-|--------|-------------|------|
-| `co2-cert-reporting` | Business logic for CO₂ certification generation | [View Repo]() |
-| `shipment-optimizer-docs` | Dashboard documentation and value story | [View Repo]() |
-| `api-product-catalog` | API use cases and product thinking | [View Repo]() |
-
----
-
-📫 Contact me on [LinkedIn](https://linkedin.com/in/jayendra-dalvi)  
-🌍 Open to Remote Opportunities in AI, Logistics, and FinTech
+📫 [LinkedIn](https://www.linkedin.com/in/jayendra-dalvi) • 🌍 Open to Remote Roles
