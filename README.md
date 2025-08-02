@@ -44,8 +44,13 @@ A sustainability-focused analytics dashboard built for enterprise freight client
 A self-service platform for HNW clients launched across GCC and Switzerland. Localized compliance logic, automated KYC, and custom themes delivered faster, smarter onboarding.  
 🔗 [Read Full Case Study →](./investment-onboarding.md)  
 
-🛠 Salesforce · Figma · Jira · Hotjar  
+🛠 AzureDevops · Figma · Jira · Hotjar  
 🌍 Rolled out in GCC & Switzerland · ⏱ Cut onboarding time by 70% · 🎨 Region-specific UX and flows
+
+
+### 🧾 Agile Transformation at ALPHA  
+Established Scrum ceremonies, centralized roadmaps, and product documentation from scratch — enabling clarity, velocity, and stakeholder trust across cross-functional teams.  
+| 🔄 Agile Transformation | [Read Case Study →](./agile-transformation-alpha.md) | Scrum Setup • Sprint Demos • Roadmaps |
 
 ---
 
