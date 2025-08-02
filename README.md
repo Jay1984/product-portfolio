@@ -47,6 +47,7 @@ A self-service platform for HNW clients launched across GCC and Switzerland. Loc
 🛠 AzureDevops · Figma · Jira · Hotjar  
 🌍 Rolled out in GCC & Switzerland · ⏱ Cut onboarding time by 70% · 🎨 Region-specific UX and flows
 
+---
 
 ### 🧾 Agile Transformation at ALPHA  
 Established Scrum ceremonies, centralized roadmaps, and product documentation from scratch — enabling clarity, velocity, and stakeholder trust across cross-functional teams.  
