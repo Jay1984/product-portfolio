@@ -59,6 +59,28 @@ A self-service platform for HNW clients launched across GCC and Switzerland. Loc
 
 ---
 
+## 🎓 Certifications  
+- ✅ **Professional Scrum Product Owner I** – Scrum.org  
+- 🎯 **Digital Marketing Nanodegree** – Udacity
+
+---
+
+## 🧠 Core Skills  
+- 💼 B2B SaaS Product Management  
+- 🤖 AI-Driven Personalization & Recommendations  
+- 🎯 Customer Experience (CX) Optimization  
+- 💸 Committed Annual Recurring Revenue (CARR) Strategy  
+- 🔍 Customer Journey & Funnel Analytics  
+- 🌐 Omnichannel Experience Design  
+- 🔄 Feature Lifecycle Ownership & Iteration  
+- 🥇 Competitive Benchmarking & Market Sizing  
+- 🧭 Product Vision & Roadmap Strategy  
+- 📱 Mobile App Feature Planning & Delivery  
+- 🧩 Technical Product Requirements & API Integration  
+- 👥 Team Leadership & Mentorship
+
+---
+
 ## 💡 Areas of Expertise
 - 📈 Product Strategy & Data Storytelling  
 - 🧪 A/B Testing & Experiment Design (Eppo, Amplitude)  
