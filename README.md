@@ -33,6 +33,7 @@ I design and deliver data-powered products that solve critical business problems
 
 A sustainability-focused analytics dashboard built for enterprise freight clients to track CO₂ savings, optimize shipment modes, and support ESG reporting.
 
+| 🧾 Investment Onboarding | [View Case Study →](./investment-onboarding.md) | GCC & Swiss Launch • KYC • Risk Profiling |
 🔗 [Read Full Case Study →](./CO2-Dashboard.md)
 
 🛠 Power BI · PostgreSQL · SeaRoutes API · Azure Data Factory  
