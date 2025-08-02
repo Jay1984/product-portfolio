@@ -3,51 +3,64 @@
 ---
 
 ### 🧾 Investment Digital Journey  
-**Role:** Product Owner  
-**Duration:** Jan 2022 – Jan 2023  
-**Team:** 1 PM, 2 Designers, 5 Engineers, 1 Compliance Lead  
-**Tools Used:** Salesforce, Jira, Confluence, Figma  
+**🎯 Role:** Product Owner  
+**📆 Duration:** Jan 2022 – Jan 2023  
+**👥 Team:** 1 PM · 2 Designers · 5 Engineers · 1 Compliance Lead  
+**🛠 Tools:** Salesforce · Jira · Confluence · Figma  
 
-#### 🔍 Problem / Objective  
-Manual onboarding of high-net-worth (HNW) clients was time-intensive and error-prone, with complex KYC, profiling, and documentation steps handled offline.
+**🔍 Problem**  
+Manual onboarding of HNW clients involved lengthy KYC, profiling, and documentation steps — increasing turnaround time and burdening operations.
 
-#### 💡 Your Role  
-Led product discovery and defined user flows aligned with regulatory requirements. Created detailed user stories for engineering and collaborated with compliance and design teams.
+**🧠 Your Role**  
+- Led product discovery, scoped regulatory and onboarding flows  
+- Created user stories and acceptance criteria  
+- Aligned engineering, compliance, and design teams for phased delivery
 
-#### 🛠 Solution  
-Launched an end-to-end digital onboarding journey that automated KYC checks, enabled profiling logic, and streamlined documentation workflows via a self-service portal.
+**🚀 Solution**  
+Built a digital onboarding experience with:  
+✅ Automated KYC and profiling logic  
+✅ Self-service document submission  
+✅ Dynamic workflows for compliance approvals
 
-#### 📊 Impact  
-- ✅ Reduced onboarding time by **70%**  
-- ✅ Enabled **self-service onboarding** for eligible clients  
-- ✅ Improved regulatory approval cycle time and reduced manual touchpoints
+**📊 Impact**  
+- ⏱ Reduced onboarding time by **70%**  
+- 🙋‍♂️ Enabled **60%+ self-service onboarding**  
+- 📈 Improved compliance turnaround time and reduced ops dependency
 
 ---
 
-### 🛍️ Alternative Investments Marketplace  
-**Role:** Product Owner  
-**Duration:** May 2021 – Dec 2022  
-**Team:** 1 PM, 3 Engineers, 1 Data Analyst  
-**Tools Used:** Salesforce, Jira, SQL  
+### 🛍 Alternative Investments Marketplace  
+**🎯 Role:** Product Owner  
+**📆 Duration:** May 2021 – Dec 2022  
+**👥 Team:** 1 PM · 3 Engineers · 1 Data Analyst  
+**🛠 Tools:** Salesforce · SQL · Jira  
 
-#### 🔍 Problem / Objective  
-Clients lacked a unified view and access point for private market investment opportunities, including PE, VC, and hedge funds.
+**🔍 Problem**  
+Clients lacked access to a centralized view of private market investments (PE, VC, HF), resulting in missed opportunities and inefficient advisor workflows.
 
-#### 💡 Your Role  
-Defined MVP scope, prioritized data integrations, and worked with compliance and sales teams to ensure accuracy and eligibility filters. Owned GTM planning and training materials.
+**🧠 Your Role**  
+- Defined MVP scope and eligibility logic  
+- Integrated data from CRM and product catalogs  
+- Led GTM planning, advisor onboarding, and internal training
 
-#### 🛠 Solution  
-Developed a digital marketplace platform integrating CRM investment data with product sheets and deal attributes. Allowed advisors and clients to explore and subscribe to opportunities.
+**🚀 Solution**  
+Created a digital investment marketplace with:  
+✅ Centralized deal listings for PE, VC, Hedge Funds  
+✅ Smart filters by investor profile  
+✅ Integrated insights from CRM and fund data
 
-#### 📊 Impact  
-- ✅ Consolidated investment listings across PE/VC/HF into a unified UI  
-- ✅ Increased cross-sell opportunities and client engagement  
-- ✅ Supported internal rollout with playbooks and GTM collateral
+**📊 Impact**  
+- 🧩 Unified product access experience  
+- 🤝 Boosted client engagement and discovery  
+- 📣 Supported successful GTM and advisor rollout
 
 ---
 
 ### 🤖 AI Chatbot for Client Queries  
-**Role:** Product Owner  
-**Duration:** Mar 2022 – Sep 2022  
-**Team:** 1 PM, 2 Engineers, 1 NLP Specialist  
-**Tools Used:** NLP, Pyt
+**🎯 Role:** Product Owner  
+**📆 Duration:** Mar 2022 – Sep 2022  
+**👥 Team:** 1 PM · 2 Engineers · 1 NLP Specialist  
+**🛠 Tools:** NLP · Python · Salesforce · Figma  
+
+**🔍 Problem**  
+Client service teams were overloaded with repeated questions about onboarding, portfolios, and general inquiries — delaying resolution
