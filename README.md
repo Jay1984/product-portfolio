@@ -7,7 +7,7 @@
 
 🚀 Product Manager | AI & Logistics | FinTech | WealthTech | Sustainability | Remote-First
 
-I design and deliver data-powered products that solve critical business problems. From optimizing freight emissions to launching investment platforms and subscription models, I’ve led 10+ major product initiatives from discovery to launch — across AI, sustainability, and B2B SaaS.
+I design and deliver data-powered products that solve critical business problems. From optimizing freight emissions to launching investment platforms and subscription models, I’ve led 10+ major product initiatives from discovery to launch — across AI, personalization, and B2B SaaS.
 
 🎯 Let’s build what’s next, better and smarter.
 
@@ -17,10 +17,15 @@ I design and deliver data-powered products that solve critical business problems
 ![Power BI](https://img.shields.io/badge/Tool-PowerBI-blue)  
 ![SQL](https://img.shields.io/badge/Skill-SQL-informational)  
 ![SeaRoutes API](https://img.shields.io/badge/API-SeaRoutes-green)  
+![Google Analytics](https://img.shields.io/badge/Analytics-Google_Analytics-orange)  
+![Adobe Analytics](https://img.shields.io/badge/Analytics-Adobe_Analytics-blueviolet)  
+![Amplitude](https://img.shields.io/badge/Analytics-Amplitude-lightblue)  
+![Hotjar](https://img.shields.io/badge/UX_Tracking-Hotjar-red)  
 ![Remote-First](https://img.shields.io/badge/Work-Remote--First-orange)  
 ![Jira](https://img.shields.io/badge/Tool-Jira-yellow)  
-![Salesforce](https://img.shields.io/badge/CRM-Salesforce-lightgrey)  
-![Figma](https://img.shields.io/badge/Design-Figma-pink)
+![Figma](https://img.shields.io/badge/Design-Figma-pink)  
+![HubSpot](https://img.shields.io/badge/CRM-HubSpot-lightgrey)  
+![Storyblok](https://img.shields.io/badge/CMS-Storyblok-green)
 
 ---
 
@@ -37,11 +42,22 @@ A sustainability-focused analytics dashboard built for enterprise freight client
 
 ## 🔍 Explore My Projects
 
-| Domain             | Case Studies (Click to View)                        | Highlights                               |
-|--------------------|-----------------------------------------------------|------------------------------------------|
-| 🚚 Logistics & AI   | [View Logistics Projects →](./logistics-ai.md)      | CO₂ Dashboard • Shipment Consolidation   |
-| 💼 Family Office    | [View WealthTech Projects →](./family-office.md)    | Onboarding • Marketplace • Chatbot       |
-| 💳 FinTech Tools    | [Coming Soon](#)                                     | Subscriptions • Internal Tools           |
+| Domain             | Case Studies (Click to View)                        | Highlights                                     |
+|--------------------|-----------------------------------------------------|------------------------------------------------|
+| 🚚 Logistics & AI   | [View Logistics Projects →](./logistics-ai.md)      | CO₂ Dashboard • Shipment Consolidation         |
+| 💼 Family Office    | [View WealthTech Projects →](./family-office.md)    | Onboarding • Marketplace • AI Chatbot          |
+| 💳 FinTech Tools    | [Coming Soon](#)                                     | Subscriptions • Personalization • A/B Testing  |
+
+---
+
+## 💡 Areas of Expertise
+- 📈 Product Strategy & Data Storytelling  
+- 🧪 A/B Testing & Experiment Design (Eppo, Amplitude)  
+- 🎯 Personalization & Segmentation  
+- 🧭 Roadmapping, Backlog Ownership, Sprint Execution  
+- 📊 Data Visualization & KPI Definition  
+- 🧩 CRM & CMS Integration (HubSpot, Storyblok)  
+- 🧠 UX Analytics & Heatmap Insights (Hotjar, Amplitude)
 
 ---
 
