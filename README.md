@@ -29,15 +29,23 @@ I design and deliver data-powered products that solve critical business problems
 
 ---
 
-## 🌿 Featured Case Study – CO₂ Emissions Dashboard
+## 🌟 Featured Case Studies
 
-A sustainability-focused analytics dashboard built for enterprise freight clients to track CO₂ savings, optimize shipment modes, and support ESG reporting.
-
-| 🧾 Investment Onboarding | [View Case Study →](./investment-onboarding.md) | GCC & Swiss Launch • KYC • Risk Profiling |
-🔗 [Read Full Case Study →](./CO2-Dashboard.md)
+### 🌿 CO₂ Emissions Dashboard  
+A sustainability-focused analytics dashboard built for enterprise freight clients to track CO₂ savings, optimize shipment modes, and support ESG reporting.  
+🔗 [Read Full Case Study →](./CO2-Dashboard.md)  
 
 🛠 Power BI · PostgreSQL · SeaRoutes API · Azure Data Factory  
 📊 Identified **10–18% emissions savings** · Reduced air freight dependency · Enabled **monthly ESG reports**
+
+---
+
+### 🧾 Investment Onboarding Platform  
+A self-service platform for HNW clients launched across GCC and Switzerland. Localized compliance logic, automated KYC, and custom themes delivered faster, smarter onboarding.  
+🔗 [Read Full Case Study →](./investment-onboarding.md)  
+
+🛠 Salesforce · Figma · Jira · Hotjar  
+🌍 Rolled out in GCC & Switzerland · ⏱ Cut onboarding time by 70% · 🎨 Region-specific UX and flows
 
 ---
 
@@ -72,6 +80,5 @@ I'm currently open to **Remote Product Roles** in:
 
 📬 **jayendrasdalvi@gmail.com**  
 🔗 [Connect on LinkedIn](https://linkedin.com/in/jayendra-dalvi)  
-📄 [Download Resume](./JayendraDalvi_Resume.pdf) *(optional – upload your PDF here)*
 
 ---
