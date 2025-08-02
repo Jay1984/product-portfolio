@@ -6,7 +6,7 @@
 **🎯 Role:** Product Owner  
 **📆 Duration:** Jan 2022 – Jan 2023  
 **👥 Team:** 1 PM · 2 Designers · 5 Engineers · 1 Compliance Lead  
-**🛠 Tools:** Salesforce · Jira · Confluence · Figma  
+**🛠 Tools:** AzureDevops · Figma  
 
 **🔍 Problem**  
 Manual onboarding of HNW clients involved lengthy KYC, profiling, and documentation steps — increasing turnaround time and burdening operations.
