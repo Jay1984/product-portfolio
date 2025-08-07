@@ -1,8 +1,3 @@
-<!-- Banner (optional - upload a banner.png to /assets folder) -->
-![Jayendra Dalvi – Product Portfolio](./assets/banner.png)
-
----
-
 # 💼 Jayendra Sharad Dalvi – Product Portfolio
 
 🚀 Product Manager | AI & Logistics | FinTech | WealthTech | Sustainability | Remote-First
